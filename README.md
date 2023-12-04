@@ -15,6 +15,7 @@
   1. Place in the BufferValues folder located at 3dmigoto "Mods" folder.
   2. Recomended to use "autoUnderwaterOutfit.py" (If not see step 3).
   3. Insert into the ini you want to detect water
+
      ```
      [Constants]
      global $submerged_start
