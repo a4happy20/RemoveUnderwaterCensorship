@@ -17,10 +17,3 @@
       
 ##### Additional Information:
   1. Required for "autoUnderwaterOutfit.py"
-
-```
-# Constants for section names
-SWAPVAR_VARIABLE = $swapvar
-KEYSWAP_SECTION = KeySwap.
-```
-
